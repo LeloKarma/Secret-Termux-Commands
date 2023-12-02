@@ -1,0 +1,8 @@
+#installation
+
+First of all, we have to install Toilet 🚽 in Termux 😂. 
+Yes, Toilet is a Package in termux that allows you to Display color Full text in your Termux.
+$pkg install toilet
+
+Please add your name to the below command.
+$toilet -f mono12 -F gay "YourName" 
