@@ -1,0 +1,5 @@
+#installation
+
+$pkg install fish -y
+
+$fish
